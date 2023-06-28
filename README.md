@@ -14,11 +14,11 @@ O projeto `Task Manager` é um aplicativo web que oferece recursos de gerenciame
 
 ![gif](public/assets/Task_Manager.gif)
 
-<!-- ## Deploy
+## Deploy
 
 O projeto está atualmente implantado na Vercel e pode ser acessado através do seguinte link:
 
-[https://favorito-repos.vercel.app](https://favorite-repos.vercel.app/) -->
+[https://favorito-repos.vercel.app](https://task-manager-ebon-xi.vercel.app/)
 
 
 ## Tecnologias Utilizadas
